@@ -1,0 +1,19 @@
+
+2022-07-07 17:06:38,180 INFO  [Log] searchProduct()PASSED 
+2022-07-07 17:06:39,262 INFO  [Log] selectProduct()PASSED 
+2022-07-07 17:06:41,381 INFO  [Log] addProductToChart()PASSED 
+2022-07-07 17:06:43,446 INFO  [Log] goToCart()PASSED 
+2022-07-07 17:06:44,076 INFO  [Log] goToCartDetail()PASSED 
+2022-07-07 17:06:44,156 INFO  [Log] clearQuantity()PASSED 
+2022-07-07 17:06:44,227 INFO  [Log] increaseCount()PASSED 
+2022-07-07 17:06:46,329 INFO  [Log] refreshCount()PASSED 
+2022-07-07 17:06:46,391 INFO  [Log] deleteFromCart()PASSED 
+2022-07-07 17:11:46,533 INFO  [Log] searchProduct()PASSED 
+2022-07-07 17:11:47,905 INFO  [Log] selectProduct()PASSED 
+2022-07-07 17:11:50,098 INFO  [Log] addProductToChart()PASSED 
+2022-07-07 17:11:52,163 INFO  [Log] goToCart()PASSED 
+2022-07-07 17:11:52,943 INFO  [Log] goToCartDetail()PASSED 
+2022-07-07 17:11:53,019 INFO  [Log] clearQuantity()PASSED 
+2022-07-07 17:11:53,094 INFO  [Log] increaseCount()PASSED 
+2022-07-07 17:11:55,179 INFO  [Log] refreshCount()PASSED 
+2022-07-07 17:11:55,229 INFO  [Log] deleteFromCart()PASSED 
